@@ -1,4 +1,4 @@
-Developer of cross-platform web applications: SPA, PWA, SSR & Web mobile apps, using frontend frameworks: Vue, React, Angular and serverless backend. 👾
+All my projects all private. They not have impact on collaborations... 👾
 <!--
 **GabrielFedericoPalma/GabrielFedericoPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

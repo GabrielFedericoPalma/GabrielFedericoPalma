@@ -1,4 +1,4 @@
-Product dev | Vue.js | Quasar | Nuxt | Firebase
+Product dev | Vue.js | Quasar | Nuxt | Firebase ⚡
 <!--
 **GabrielFedericoPalma/GabrielFedericoPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

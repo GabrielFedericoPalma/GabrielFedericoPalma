@@ -1,4 +1,4 @@
-All my projects all private. They not have impact on collaborations... 👾
+All my projects are private. They not have impact on collaborations...
 <!--
 **GabrielFedericoPalma/GabrielFedericoPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
